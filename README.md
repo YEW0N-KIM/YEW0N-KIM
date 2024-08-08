@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYEW0N-KIM%2FacornProject&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=acornProject&edge_flat=false)](https://hits.seeyoufarm.com)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYEW0N-KIM%2FacornProject&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=yewon-kim&edge_flat=false)](https://hits.seeyoufarm.com)                   
 <!--
 **YEW0N-KIM/YEW0N-KIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
